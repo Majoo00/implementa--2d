@@ -12,3 +12,4 @@ frutas.pop(3)
 print("lista de frutas:",frutas)
 frutas[Guanabana]= guayaba
 print("lista de frutas:".frutas)
+print(hat_list) hola maria jose :)
